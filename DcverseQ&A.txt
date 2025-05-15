@@ -1,0 +1,10 @@
+Q.If this was a real SaaS tool, what 2 features would you prioritize next and why?
+Ans: if this was a real SaaS tool then the two features that i will prioritize are :
+	A)User Authentication: As I am a full stack web Developer the first thing during development of a project comes in mind is user authentication so that only authenticated user can create, save and manage their avatars securely.
+
+	B)Customization of Avatar: User can generate their own avatar and also able to edit it.It increases users engagement with our site. 
+
+
+
+Q.2 What was one challenge you faced in this task, and how did you solve or approach it?
+Ans: I came across few challenge while developing this site and able to resolve it with help of documentation and AI .One main challenge was getting unexpected API error while fetching data from Reqres. After giving some time for debugging but no positive outcomes were seen so I switched to DummyJSON which provide similar datasets and make this development journey smooth and reliable.
